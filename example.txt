@@ -1,0 +1,5 @@
+http://localhost:8080/print?url=https://app.matias.com.co/storage/prod/companies/150/pos/FPOS007129517600024FPOS00000081/FPOS007129517600024FPOS00000081.pdf&printer=POS-58
+
+http://localhost:8080/open-box?printer=POS-58
+
+http://localhost:8080/list-printers
