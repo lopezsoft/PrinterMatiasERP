@@ -1,0 +1,171 @@
+2024/12/20 00:37:50 Iniciando el servidor en el puerto: 8080
+2024/12/20 00:37:50 Arrancando el servidor HTTP...
+2024/12/20 00:37:53 Received request: /list-printers
+2024/12/20 00:40:41 Servidor iniciado en puerto :8080
+2024/12/20 00:40:46 Received request: /health
+2024/12/20 00:40:49 Received request: /list-printers
+2024/12/20 00:41:13 Received request: /list-printers
+2024/12/20 00:43:54 Received request: /list-printers
+2024/12/20 00:47:27 Servidor iniciado en puerto :8080
+2024/12/20 00:47:32 Received request: /health
+2024/12/20 00:47:35 Received request: /list-printers
+2024/12/20 00:48:39 Servidor iniciado en puerto :8080
+2024/12/20 00:48:44 Received request: /list-printers
+2024/12/20 00:49:24 Received request: /print
+2024/12/20 00:49:30 Error al imprimir: la impresora 'POS-58' no existe
+2024/12/20 01:00:28 main.go:159: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:00:38 main.go:147: [INFO] Received request: /health
+2024/12/20 01:00:41 main.go:147: [INFO] Received request: /list-printers
+2024/12/20 01:04:14 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:04:22 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:04:33 main.go:148: [INFO] Received request: /print
+2024/12/20 01:04:33 main.go:164: [WARN] Método HTTP no permitido: GET
+2024/12/20 01:04:50 main.go:148: [INFO] Received request: /print
+2024/12/20 01:04:50 main.go:164: [WARN] Método HTTP no permitido: GET
+2024/12/20 01:07:07 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:23:18 main.go:162: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:23:28 main.go:150: [INFO] Received request: /health
+2024/12/20 01:23:29 main.go:150: [INFO] Received request: /health
+2024/12/20 01:23:32 main.go:150: [INFO] Received request: /list-printers
+2024/12/20 01:23:32 main.go:170: [ERROR] Error al listar impresoras: error al listar impresoras: EnumPrintersW failed: The parameter is incorrect.
+2024/12/20 01:23:36 main.go:150: [INFO] Received request: /list-printers
+2024/12/20 01:23:36 main.go:170: [ERROR] Error al listar impresoras: error al listar impresoras: EnumPrintersW failed: The parameter is incorrect.
+2024/12/20 01:23:37 main.go:150: [INFO] Received request: /list-printers
+2024/12/20 01:23:37 main.go:170: [ERROR] Error al listar impresoras: error al listar impresoras: EnumPrintersW failed: The parameter is incorrect.
+2024/12/20 01:23:37 main.go:150: [INFO] Received request: /list-printers
+2024/12/20 01:23:37 main.go:170: [ERROR] Error al listar impresoras: error al listar impresoras: EnumPrintersW failed: The parameter is incorrect.
+2024/12/20 01:27:30 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:27:35 main.go:148: [INFO] Received request: /health
+2024/12/20 01:27:38 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:33:54 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:34:03 main.go:148: [INFO] Received request: /health
+2024/12/20 01:34:06 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:37:29 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:37:37 main.go:148: [INFO] Received request: /health
+2024/12/20 01:37:41 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:38:59 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:39:03 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:41:08 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:41:14 main.go:148: [INFO] Received request: /health
+2024/12/20 01:41:18 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:42:15 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:42:24 main.go:148: [INFO] Received request: /health
+2024/12/20 01:42:27 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:49:08 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:49:13 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:49:17 main.go:148: [INFO] Received request: /health
+2024/12/20 01:56:09 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2024/12/20 01:56:22 main.go:148: [INFO] Received request: /health
+2024/12/20 01:56:22 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:56:22 main.go:148: [INFO] Received request: /health
+2024/12/20 01:57:01 main.go:148: [INFO] Received request: /health
+2024/12/20 01:57:01 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:57:01 main.go:148: [INFO] Received request: /health
+2024/12/20 01:58:30 main.go:148: [INFO] Received request: /health
+2024/12/20 01:58:30 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:58:37 main.go:148: [INFO] Received request: /health
+2024/12/20 01:59:40 main.go:148: [INFO] Received request: /health
+2024/12/20 01:59:40 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 01:59:41 main.go:148: [INFO] Received request: /health
+2024/12/20 02:06:52 main.go:148: [INFO] Received request: /health
+2024/12/20 02:06:52 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 02:06:53 main.go:148: [INFO] Received request: /health
+2024/12/20 02:08:24 main.go:148: [INFO] Received request: /health
+2024/12/20 02:08:24 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 02:08:25 main.go:148: [INFO] Received request: /health
+2024/12/20 02:10:05 main.go:148: [INFO] Received request: /health
+2024/12/20 02:10:05 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 02:10:18 main.go:148: [INFO] Received request: /health
+2024/12/20 02:10:18 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 02:10:20 main.go:148: [INFO] Received request: /health
+2024/12/20 02:11:40 main.go:148: [INFO] Received request: /health
+2024/12/20 02:11:40 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 02:11:41 main.go:148: [INFO] Received request: /health
+2024/12/20 02:13:17 main.go:148: [INFO] Received request: /health
+2024/12/20 02:13:17 main.go:148: [INFO] Received request: /list-printers
+2024/12/20 02:13:18 main.go:148: [INFO] Received request: /health
+2025/01/30 10:26:43 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:27:00 main.go:148: [INFO] Received request: /health
+2025/01/30 10:27:00 main.go:148: [INFO] Received request: /list-printers
+2025/01/30 10:27:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:27:44 main.go:148: [INFO] Received request: /print
+2025/01/30 10:27:47 main.go:168: [ERROR] Error al imprimir: error al imprimir el archivo: error al ejecutar PDFPrinter: exec: Stdout already set, salida: 
+2025/01/30 10:28:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:28:44 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:29:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:29:32 main.go:148: [INFO] Received request: /print
+2025/01/30 10:29:35 main.go:168: [ERROR] Error al imprimir: error al imprimir el archivo: error al ejecutar PDFPrinter: exec: Stdout already set, salida: 
+2025/01/30 10:33:17 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:33:19 main.go:148: [INFO] Received request: /health
+2025/01/30 10:33:19 main.go:148: [INFO] Received request: /list-printers
+2025/01/30 10:33:26 main.go:148: [INFO] Received request: /print
+2025/01/30 10:33:29 main.go:168: [ERROR] Error al imprimir: error al imprimir el archivo: error al ejecutar PDFPrinter: exec: Stdout already set, salida: 
+2025/01/30 10:33:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:34:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:35:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:36:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:38:09 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:38:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:39:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:40:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:41:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:42:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:43:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:44:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:45:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:46:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:47:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:48:12 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:48:21 main.go:148: [INFO] Received request: /print
+2025/01/30 10:48:24 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\1659525018.pdf
+2025/01/30 10:48:24 main.go:168: [ERROR] Error al imprimir: error al imprimir el archivo: error al ejecutar PDFPrinter: exec: Stdout already set, salida: 
+2025/01/30 10:48:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:49:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:50:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:51:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:52:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:53:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:53:59 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:54:05 main.go:148: [INFO] Received request: /print
+2025/01/30 10:54:08 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\2930129947.pdf
+2025/01/30 10:54:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:55:02 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:55:10 main.go:148: [INFO] Received request: /print
+2025/01/30 10:55:13 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\464706999.pdf
+2025/01/30 10:55:13 main.go:168: [ERROR] Error al imprimir: error al imprimir el archivo: error al ejecutar PDFPrinter: exec: Stderr already set, salida: 
+2025/01/30 10:55:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:56:13 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:56:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:57:15 main.go:148: [INFO] Received request: /print
+2025/01/30 10:57:18 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\1032433259.pdf
+2025/01/30 10:57:29 main.go:148: [INFO] Received request: /health
+2025/01/30 10:58:30 main.go:148: [INFO] Received request: /health
+2025/01/30 10:59:32 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/01/30 10:59:34 main.go:148: [INFO] Received request: /health
+2025/01/30 10:59:44 main.go:148: [INFO] Received request: /print
+2025/01/30 10:59:47 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\4183755746.pdf
+2025/01/30 10:59:55 main.go:148: [INFO] Received request: /print
+2025/01/30 10:59:58 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\2339707820.pdf
+2025/01/30 11:00:21 main.go:148: [INFO] Received request: /print
+2025/01/30 11:00:24 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\1605014302.pdf
+2025/01/30 11:00:29 main.go:148: [INFO] Received request: /health
+2025/01/30 11:01:14 main.go:148: [INFO] Received request: /print
+2025/01/30 11:01:17 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\1384146235.pdf
+2025/01/30 11:01:29 main.go:148: [INFO] Received request: /health
+2025/01/30 11:01:34 main.go:148: [INFO] Received request: /print
+2025/01/30 11:01:37 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\292241617.pdf
+2025/01/30 11:02:30 main.go:148: [INFO] Received request: /health
+2025/01/30 11:03:34 main.go:148: [INFO] Received request: /health
+2025/02/02 16:44:25 main.go:160: [INFO] Servidor iniciado en puerto :8080
+2025/02/02 16:44:41 main.go:148: [INFO] Received request: /health
+2025/02/02 16:44:58 main.go:148: [INFO] Received request: /print
+2025/02/02 16:45:06 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\3768655781.pdf
+2025/02/02 16:45:21 main.go:148: [INFO] Received request: /print
+2025/02/02 16:45:29 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\3115401363.pdf
+2025/02/02 16:45:40 main.go:148: [INFO] Received request: /print
+2025/02/02 16:45:40 main.go:148: [INFO] Received request: /health
+2025/02/02 16:45:41 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\3057528129.pdf
+2025/02/02 16:45:48 main.go:148: [INFO] Received request: /print
+2025/02/02 16:45:49 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\687953434.pdf
+2025/02/02 16:45:55 main.go:148: [INFO] Received request: /print
+2025/02/02 16:45:57 main.go:160: [INFO] Archivo descargado: C:\Users\LOPEZS~1\AppData\Local\Temp\2568384944.pdf
